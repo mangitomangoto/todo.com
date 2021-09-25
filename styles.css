@@ -1,0 +1,14 @@
+.container { 
+    background-color: blueviolet; 
+}
+.fatty {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(124, 13, 28);
+}
+
+.fun {
+    background-color: red;
+    color: white;
+    padding: 700px;
+    margin: 10px 10px 10px 10px;
+}
